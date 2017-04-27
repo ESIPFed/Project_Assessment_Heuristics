@@ -1,4 +1,4 @@
-##Use Cases:  
+## Use Cases:  
 The following Use Cases were developed to help scope the research:
 *	Use Case 1:  Research Domain Expert
 **	I am a domain expert in tropical cyclones and am looking for web-based tools or services to help my research group with certain types of analysis. I am interested in guidance on how to determine if a tool or service will be useful for addressing the research needs of my group.
